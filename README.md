@@ -12,7 +12,7 @@ Your strengths:
 
 </p>
 
-![Alt text](./images/brain.png)
+![Alt text](./brain.png)
 
 <h3 align="left">Languages and Tools:</h3>
 
