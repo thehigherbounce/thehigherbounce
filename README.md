@@ -12,5 +12,4 @@ Your strengths:
 
 </p>
 
-![Alt text](./brain.png)
 
