@@ -11,5 +11,3 @@ Your strengths:
 - You are one of those people who defend what they consider fair, openly and honestly.
 
 </p>
-
-Email: codestar121879@gmail.com
