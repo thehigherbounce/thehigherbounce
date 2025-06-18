@@ -11,3 +11,4 @@ Your strengths:
 - You are one of those people who defend what they consider fair, openly and honestly.
 
 </p>
+contact me: codestar121879@gmail.com
